@@ -1,0 +1,188 @@
+*{
+    padding: 0;
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+nav{
+    text-transform: uppercase;
+}
+.border-top{
+    border-width: 5px !important;
+}
+#logo{
+    margin-left :3em;
+    margin-right: 3em;
+}
+
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+.tofla{
+    height: 500px;
+    width: 750px;
+    margin-bottom: 30px;
+}
+.main_middle_item{
+    margin-top:30px;
+    margin-bottom: 50px;
+    width:750px;
+    align-items: center;
+    
+}
+section{
+    background-color: #F8F8F8;
+    margin-left: 70px;
+    margin-right: 70px;
+    height: 4000px;
+   
+    
+}
+#main{
+    display:flex;
+}
+p{
+    font-size:15px;
+}
+.read_more{
+    text-transform: uppercase;
+}
+.taht_lpic{
+    display: inline;
+    align-items: flex-start;
+}
+a{
+    float: right;
+}
+.bbttnn{
+    margin-bottom: 15px;
+}
+/*aside*/
+aside{
+    
+    float: right;
+    position: relative;
+}
+.frst{
+    margin-bottom: 60px;
+}
+.solido{
+    border-top: 1px solid #ff4444;
+    width: 440px;
+    border-width: 2px;
+ 
+}
+.items{
+    display: flex;
+    margin-bottom: 10px;
+    
+}
+/*.items > :last-child{
+    margin-bottom: 50px;
+}*/
+.side_txt > p{
+    color: #4D4F5C;
+}
+.aside_content{
+    margin-top: 25px;
+    margin-left:20px;
+}
+.items>img{
+    width:140px;
+    height:90px;
+}
+.side_txt{
+    margin-left: 20px;
+}
+.gris{
+    font-size: 0.6em ;
+    padding: 0;
+}
+
+.txt{
+    color:#4D4F5C;
+    margin-bottom: 0.5em;
+    margin-top: 10px;
+}
+
+#categ_lista > li >a{
+    display : default;
+    color: #4D4F5C;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+.met9ataa{
+    border-top: 1px dashed #D5D5DE;
+    width: 440px;
+    border-width: 2px;
+}
+.btn_side{
+    position: absolute;
+    top: 45%;
+    left: 40%;
+}
+.ourpics{
+    margin-bottom: 60px;
+}
+.spr img{
+    margin-bottom: 10px;
+}
+.categorie{
+    margin-bottom: 60px;
+}
+/*aside random post*/
+.randompost{
+    margin-bottom: 60px;
+}
+.pic_button{
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+}
+
+.pic_button img {
+    width: 100%;
+    height: auto;
+  }
+.pic_button button {
+    position: absolute;
+    top: 10%;
+    left: 5%;
+}
+
+
+/*TAGS*/
+.boto button{
+    background-color: #E8E8E8;
+    color:#707070;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.tags{
+    margin-bottom: 60px;
+}
+
+/*voting */
+.voting{
+    color:#4D4F5C;
+}
+.choice li{
+    display: list-item;
+    margin-top: 0;
+    margin-bottom: 20px;
+    padding: 0;
+
+}
+.voting a{
+    float: right ;
+    color: #4D4F5C;
+    margin-top: 50px;
+    margin-right: 160px;
+
+}
